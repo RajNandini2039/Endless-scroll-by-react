@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import Infinite from "./src/Infinite";
+import Infinite from "./Infinite";
+
 import './App.css'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-      <Infinite/>
+      <Infinite />
     </>
   )
 }
