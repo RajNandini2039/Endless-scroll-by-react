@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Infinite from "./Infinite";
+import Infinite from "./src/Infinite";
 import './App.css'
 
 function App() {
