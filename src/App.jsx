@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import Infinite from "./Infinite.jsx";
+import Infinite from "./Infinite";
 
 import './App.css'
 

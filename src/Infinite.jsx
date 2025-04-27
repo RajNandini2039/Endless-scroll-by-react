@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
-import './Infinite.css';
+import './infinite.css';
 
 
 
